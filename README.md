@@ -2,7 +2,7 @@
 
 The following guide describes how to run a network of Docker containers on a local machine, including one container for a PostgreSQL database and one container running PostGraphile.
 
-It is the same as the repository **[Docker-PostgreSQL-PostGraphile](https://github.com/alexisrolland/docker-postgresql-postgraphile)** with one difference, the PostGraphile container runs a **Node.js application using PostGraphile as library** instead of running PostGraphile via CLI. Running PostGraphile as a library allows greater customization possibilities
+It is the same as the repository **[Docker-PostgreSQL-PostGraphile](https://github.com/alexisrolland/docker-postgresql-postgraphile)** with one difference, the PostGraphile container runs a **Node.js application using PostGraphile as library** instead of running PostGraphile via CLI. Running PostGraphile as a library open doors to greater customization possibilities.
 
 Follow the steps provided in the repository [Docker-PostgreSQL-PostGraphile](https://github.com/alexisrolland/docker-postgresql-postgraphile) and come back to this guide to create the GraphQL container.
 
